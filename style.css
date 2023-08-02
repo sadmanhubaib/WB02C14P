@@ -1,0 +1,57 @@
+#division1{
+    height: 200px;
+    border: 10px dotted black;
+    background-image: url('image/strawberry.webp');
+    background-repeat: no-repeat;
+    background-size: 200px;
+    padding: 20x;
+    background-origin: border-box;
+}
+#division2{
+    border: 10px dotted black;
+    background-color: aqua;
+    padding: 20x;
+    background-clip: content-box;
+}
+#division3{
+    border: 10px dotted black;
+    background-color: aqua;
+    padding: 20x;
+    background-clip: content-box;
+}
+#division4{
+    height: 200px;
+    background-image: url(image/apple.png),url(image/greenapple.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px, 200px;
+    background-position: left, right;
+}
+#division5{
+    height: 200px;
+    width: 200px;
+    border: 2px solid blue;
+    margin: auto;
+}
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#division6{
+    height: 200px;
+    width: 200px;
+    border: 2px solid blue;
+    margin: auto;
+.child{
+    height: 2px dotted green;
+    width: 70px;
+    border: 70px solid blue;
+}
+
+
+
+
+
+
+
